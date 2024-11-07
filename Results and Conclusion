@@ -1,0 +1,11 @@
+Results:
+
+The classification report and accuracy score reveal how well the model differentiates between various music genres.
+The results would typically show the precision, recall, and F1-score for each genre, providing an idea of which genres are easier or more challenging to classify.
+
+
+
+Conclusion:
+Overall Model Accuracy:
+The logistic regression model achieved an accuracy of 53.56% on the PCA-transformed data, meaning it correctly predicted the genre of a music track in about 54% of cases.
+This moderate accuracy suggests the model could distinguish between genres to a certain extent but also indicates room for improvement.
